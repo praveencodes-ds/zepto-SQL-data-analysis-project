@@ -140,24 +140,14 @@ CREATE TABLE zepto (
 
 4. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
 
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
 ## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty — a Data Analyst & Content Creator.
+Hey, I’m praveen nalagati — a Data Analyst.
 I break down complex data topics into simple, practical content that actually helps you land a job.
 
  ### 🚀 Stay Connected & Join the Data Drool Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
 
-🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
-- Beginner-friendly tutorials, real-world projects, job and career advice
-
-📺 Instagram: [data.drool](https://www.instagram.com/data.drool/)
-- Quick SQL tips, data memes, and behind-the-scenes content
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
+💼 LinkedIn: [Praveen Nalagati](https://www.linkedin.com/in/praveen-nalagati-086578369/)
 - Let’s connect professionally and grow your data career
 
 
